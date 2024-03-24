@@ -3,8 +3,9 @@
   "home-timeline-length": 200,
   "max-followings": 80,
   "from-notifications": 1,
-  "reply-interval-in-hours": 10,
+  "reply-interval-in-hours": 1,
   "max-followings": 20,
   "max-followers": 20,
-  "max-follow-requests": 10
+  "max-follow-requests": 10,
+  "from-notifications": 1
 }
