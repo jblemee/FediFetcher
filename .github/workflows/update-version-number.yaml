@@ -1,4 +1,4 @@
-name: Update Version number and build docker images
+name: Update version number and build docker images
 
 "on":
   push:
